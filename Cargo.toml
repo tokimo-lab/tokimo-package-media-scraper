@@ -38,15 +38,15 @@ print_stdout              = "warn"
 print_stderr              = "warn"
 
 [package]
-name        = "tokimo-media-scraper-bridge"
+name        = "tokimo-media-scraper"
 version     = "0.1.0"
 edition     = "2024"
 license     = "MIT OR Apache-2.0"
 description = "Metadata scraping clients for TMDB, OMDb, Douban, Bangumi, MusicBrainz, and other services"
-repository  = "https://github.com/tokimo-lab/tokimo-package-media-scraper-bridge"
+repository  = "https://github.com/tokimo-lab/tokimo-package-media-scraper"
 
 [lib]
-name = "tokimo_media_scraper_bridge"
+name = "tokimo_media_scraper"
 path = "src/lib.rs"
 
 [dependencies]
