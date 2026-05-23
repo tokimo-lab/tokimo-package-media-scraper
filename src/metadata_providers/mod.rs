@@ -1,0 +1,17 @@
+pub mod bangumi;
+pub mod deezer;
+pub mod douban;
+pub mod fanart;
+pub mod javbus;
+pub mod javdb;
+pub mod lrclib;
+pub mod musicbrainz;
+pub mod nager_date;
+pub mod omdb;
+pub mod qidian;
+pub mod spotify;
+pub mod stashdb;
+pub mod thetvdb;
+pub mod tmdb;
+pub mod tpdb;
+pub mod wikipedia;
